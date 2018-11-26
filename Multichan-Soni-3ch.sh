@@ -19,4 +19,4 @@ rm c-*
 
 #use "ffmpeg -layouts" to list audio channel layouts.
 #use "ffmpeg -pix_fmts" to list colorspaces.
-#this script is compatible with xyz12le, xyz12be.
+#this script is compatible with rgb24, bgr24 I think lol.
